@@ -1,0 +1,40 @@
+body{
+              background-color:white;
+              background-size:cover;
+              margin:0;
+              }
+input{
+              width:70%;
+              outline:none;
+              padding:10px 11px;
+              border:1px white solid;
+              font-size:15px;
+              background:white;
+              display:block;
+              margin:20px auto;
+              }
+#login{
+              background:red;
+              color:white;
+              border:none;
+              }
+div{
+              width:30%;
+              height:400px;
+              background:rgba(0,0,0,2);
+              box-shadow:5px 4px 43px #000;
+              position:absolute;
+              top:100px;
+              left:500px;
+              }
+form{
+              margin:30px auto;
+              text-align:center;
+              }
+b{
+              font-size:25px;
+              color:blue;
+              }
+a{
+              color:white;
+              }

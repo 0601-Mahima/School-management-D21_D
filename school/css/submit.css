@@ -1,0 +1,30 @@
+.row1{
+    /*text-align: center;*/
+      padding-left: 300px;
+}
+.row2{
+        padding-left: 200px;
+        margin-top: -35px;
+}
+.add1{
+  text-align: right;
+}
+.space{
+  padding-left: 50px;
+}
+.space1{
+  padding-left: 40px;
+  margin-top: 15px;
+}
+.mytab{
+  text-align: center;
+  font-size: 30%;
+  font-style:
+  font-family: Arial, Helvetica, sans-serif;
+ }
+ .login1{
+  top:50px;
+ }
+h3.log{
+  color:black;
+}
